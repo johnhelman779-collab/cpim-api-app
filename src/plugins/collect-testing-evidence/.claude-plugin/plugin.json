@@ -1,0 +1,14 @@
+{
+  "name": "collect-testing-evidence",
+  "version": "1.0.1",
+  "description": "Runs test suites, collects results, and posts evidence as a Jira comment.",
+  "author": {
+    "name": "Revmaker"
+  },
+  "keywords": [
+    "testing",
+    "qa",
+    "jira",
+    "evidence"
+  ]
+}

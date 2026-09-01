@@ -1,0 +1,13 @@
+{
+  "name": "use-nodejs-version",
+  "version": "1.0.1",
+  "description": "Node.js version management and execution.",
+  "author": {
+    "name": "Revmaker"
+  },
+  "keywords": [
+    "nodejs",
+    "fnm",
+    "tooling"
+  ]
+}

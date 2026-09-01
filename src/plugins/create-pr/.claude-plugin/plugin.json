@@ -1,0 +1,13 @@
+{
+  "name": "create-pr",
+  "version": "1.0.1",
+  "description": "Creates a pull request following workspace conventions.",
+  "author": {
+    "name": "Revmaker"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "pull-request"
+  ]
+}

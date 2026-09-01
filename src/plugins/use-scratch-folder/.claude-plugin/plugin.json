@@ -1,0 +1,13 @@
+{
+  "name": "use-scratch-folder",
+  "version": "1.0.1",
+  "description": "Route temporary artifacts to scratch/.",
+  "author": {
+    "name": "Revmaker"
+  },
+  "keywords": [
+    "scratch",
+    "tooling",
+    "workflow"
+  ]
+}

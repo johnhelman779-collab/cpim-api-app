@@ -1,0 +1,15 @@
+{
+  "name": "write-skills-commands-rules-plugins",
+  "version": "1.0.1",
+  "description": "Conventions for authoring skills, commands, rules, and plugin files.",
+  "author": {
+    "name": "Revmaker"
+  },
+  "keywords": [
+    "skills",
+    "commands",
+    "rules",
+    "plugins",
+    "conventions"
+  ]
+}

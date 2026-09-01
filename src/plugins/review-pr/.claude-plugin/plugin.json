@@ -1,0 +1,14 @@
+{
+  "name": "review-pr",
+  "version": "1.0.1",
+  "description": "Reviews all PRs associated with a Jira ticket.",
+  "author": {
+    "name": "Revmaker"
+  },
+  "keywords": [
+    "code-review",
+    "github",
+    "jira",
+    "pull-request"
+  ]
+}

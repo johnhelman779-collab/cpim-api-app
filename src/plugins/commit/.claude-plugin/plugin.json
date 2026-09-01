@@ -1,0 +1,13 @@
+{
+  "name": "commit",
+  "version": "1.0.1",
+  "description": "Commit message format and rules for whenever committing, saving, or pushing changes.",
+  "author": {
+    "name": "Revmaker"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "conventions"
+  ]
+}

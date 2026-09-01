@@ -1,0 +1,13 @@
+{
+  "name": "deploy",
+  "version": "1.0.1",
+  "description": "Deploys a project to an environment, with a Slack announcement to coordinate shared environments.",
+  "author": {
+    "name": "Revmaker"
+  },
+  "keywords": [
+    "deploy",
+    "slack",
+    "release"
+  ]
+}

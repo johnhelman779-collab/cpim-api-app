@@ -1,0 +1,15 @@
+{
+  "name": "qa-validation-plan",
+  "version": "1.0.1",
+  "description": "Create a QA validation plan for a ticket following ISO/IEC/IEEE 29119, once development is complete.",
+  "author": {
+    "name": "Revmaker"
+  },
+  "keywords": [
+    "qa",
+    "testing",
+    "validation-plan",
+    "iso-29119",
+    "ticket"
+  ]
+}

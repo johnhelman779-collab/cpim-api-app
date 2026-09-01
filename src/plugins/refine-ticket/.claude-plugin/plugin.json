@@ -1,0 +1,13 @@
+{
+  "name": "refine-ticket",
+  "version": "1.0.1",
+  "description": "Analyses a ticket against the codebase and produces a structured refinement comment on Jira.",
+  "author": {
+    "name": "Revmaker"
+  },
+  "keywords": [
+    "jira",
+    "refinement",
+    "planning"
+  ]
+}

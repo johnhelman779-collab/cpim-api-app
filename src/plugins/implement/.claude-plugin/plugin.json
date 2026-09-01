@@ -1,0 +1,13 @@
+{
+  "name": "implement",
+  "version": "1.0.1",
+  "description": "TDD workflow: plan first, then red-green-refactor one test at a time.",
+  "author": {
+    "name": "Revmaker"
+  },
+  "keywords": [
+    "tdd",
+    "implementation",
+    "testing"
+  ]
+}
